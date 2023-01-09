@@ -2,8 +2,10 @@
 names = ["george", "hank", "camielle", "rebecca", "frances"]
 
 # Add variables assigned to integers
-numbers = [2, 544, 91, 30, 57]
+numbers = 2, 544, 91, 30, 57
 
 # Add variables that are addisgned to floats
-odd_numbers = false
-even_numbers = true
+deposit_paid = true
+checked_in = false
+
+
