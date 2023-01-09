@@ -5,7 +5,7 @@ names = ["george", "hank", "camielle", "rebecca", "frances"]
 numbers = 2, 544, 91, 30, 57
 
 # Add variables that are addisgned to floats
-deposit_paid = true
-checked_in = false
+deposit_paid = 1450.00
+checked_in = 11.3
 
 
