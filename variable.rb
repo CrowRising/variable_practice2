@@ -8,4 +8,9 @@ numbers = 2, 544, 91, 30, 57
 deposit_paid = 1450.00
 checked_in = 11.3
 
+# Add variables that are assigned to boolens"
+attended = false
+rescheduled = true
+
+
 
